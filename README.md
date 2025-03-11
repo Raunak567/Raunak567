@@ -4,13 +4,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=30&pause=1000&center=true&vCenter=true&width=435&lines=A+Full+Stack+Web+Developer;Self-Taught+Front-End+Developer;Computer+Science+Student;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/raunak567?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/raunak567?style=social) <img src="https://komarev.com/ghpvc/?username=raunak567" alt="raunak567" />
+
 
 <br>
 
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -105,24 +107,24 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/Raunak-kumar" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Raunak Kumar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/solar1530" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  solar1530-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:www.seema104@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Raunak-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
