@@ -16,9 +16,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity
+Enthusiastic self-taught developer passionate about building outstanding web applications. Experienced in both frontend and backend development with Python and modern frameworks. Currently focused on deepening my web development skills and creating impactful full-stack solutions.
+
+🚀 Always open to new challenges, internships, or job opportunities.
+💻 Technologies: Python, JavaScript, HTML, CSS, React, Django (and more)
+🌱 Lifelong learner committed to continuous growth in tech.
+
+Let's connect and create something amazing together!
+
 
 <br><br>
 
@@ -76,15 +81,6 @@
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/raunak567">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunak567)](#)
 
 </a>
 </div>
