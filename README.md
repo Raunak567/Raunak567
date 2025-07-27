@@ -47,8 +47,8 @@ Let's connect and create something amazing together!
 
 #### Frameworks
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/be8b37dced23af83cc0cd40ea64fbafdd38a149522a78d8600d45dc95df6506d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324431463f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465" alt="django" width="100" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+
 
 
 #### Multimedia and Design
@@ -83,15 +83,7 @@ Let's connect and create something amazing together!
 <br>
 
 <li>
-<a href="https://twitter.com/solar1530" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  solar1530-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:www.seema104@gmail.com" target="_blank">
+<a href="mailto:raunakkumar56789@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Raunak-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
